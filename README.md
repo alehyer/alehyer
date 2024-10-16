@@ -1,2 +1,2 @@
 ### 👋 Hi, I am Sofian.
-### 🎓 I am a Software Engineering student.
+🎓 I am a Software Engineering student.
