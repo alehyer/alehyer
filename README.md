@@ -1,4 +1,4 @@
-### 👋 | Hi, I am Sofian.
+## 👋 - Hi, I am Sofian.
 
 🎓 - I am a Software Engineering student. <br/>
 💻 - I work on projects that interest me and put them here. <br/>
